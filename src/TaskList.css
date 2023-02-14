@@ -1,0 +1,11 @@
+.tasks-container{
+  
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);;
+    height:530px;
+    width:430px;
+    overflow-y:hidden;
+    list-style: none;
+    margin:15px;
+    border-radius:10px;
+   
+}
